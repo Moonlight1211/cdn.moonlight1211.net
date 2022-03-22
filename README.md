@@ -1,2 +1,2 @@
-# cnd.moonlight1211.net
-My personal content delivery network.
+# cdn.moonlight1211.net
+simple github hosted CDN for smaller files
